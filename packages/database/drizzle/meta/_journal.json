@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1764884593001,
+      "tag": "0000_spooky_metal_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1764886118261,
+      "tag": "0001_steady_banshee",
+      "breakpoints": true
+    }
+  ]
+}
